@@ -19,5 +19,17 @@ class MusicCell: UITableViewCell {
 
         // Configure the view for the selected state
     }
-
+    
+    @IBOutlet weak var musicName: UILabel!
+    
+    
+    @IBOutlet weak var singerName: UILabel!
+    
+    
+    @IBOutlet weak var songTime: UILabel!
+    
+    
+    @IBOutlet weak var cover: UIImageView!
+    
+    
 }
