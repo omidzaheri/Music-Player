@@ -8,6 +8,9 @@
 import UIKit
 
 class MusicCell: UITableViewCell {
+    
+    
+
 
     override func awakeFromNib() {
         super.awakeFromNib()
